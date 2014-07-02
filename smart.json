@@ -1,0 +1,8 @@
+{
+  "name": "axis",
+  "description": "A terse, feature-rich css library built on top of stylus.",
+  "author": "jenius",
+  "homepage": "http://roots.cx/axis",
+  "version": "0.2.0",
+  "git": "https://github.com/sbking/meteor-axis.git"
+}
